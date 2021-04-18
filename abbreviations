@@ -1,5 +1,3 @@
-abbr -a -U -- dls 'cd /home/kk/Downloads'
-abbr -a -U -- ficon /home/kk/.config/fish/
 abbr -a -U -- zzi 'sudo zypper install'
 abbr -a -U -- zziy 'sudo zypper install -y'
 abbr -a -U -- zzs 'zypper search'
